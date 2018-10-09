@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537173423 source:c:\users\ania\documents\dominik\voyager.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1538395809 source:c:\users\ania\documents\dominik\voyager\voyager.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
